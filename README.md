@@ -10,7 +10,7 @@ To run Hebbian RNN `python hebbian_maze.py`
 To run Baseline RNN `python hebbian_maze.py --type rnn`
 
 ## Plot
-![](https://drive.google.com/file/d/1LqtVqcQj2oRAlN0K4SVAgjvTkdYoKku5/view?usp=sharing)
+![](plots/plot.png)
 
 ## References
 
